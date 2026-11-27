@@ -1,0 +1,123 @@
+<testsuites id="" name="" tests="13" failures="0" skipped="0" errors="0" time="64.10731700000001">
+<testsuite name="example.spec.ts" timestamp="2026-11-27T16:22:41.403Z" hostname="chromium" tests="10" failures="0" skipped="0" time="60.453" errors="0">
+<testcase name="TC01: Verify TodoMVC application loads" classname="example.spec.ts" time="7.702">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\example-TC01-Verify-TodoMVC-application-loads-chromium\video.webm]]
+
+[[ATTACHMENT|test-results\example-TC01-Verify-TodoMVC-application-loads-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="TC02: Add a new todo item" classname="example.spec.ts" time="5.532">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\example-TC02-Add-a-new-todo-item-chromium\video.webm]]
+
+[[ATTACHMENT|test-results\example-TC02-Add-a-new-todo-item-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="TC03: Add multiple todo items" classname="example.spec.ts" time="4.319">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\example-TC03-Add-multiple-todo-items-chromium\video.webm]]
+
+[[ATTACHMENT|test-results\example-TC03-Add-multiple-todo-items-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="TC04: Complete a todo item" classname="example.spec.ts" time="5.702">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\example-TC04-Complete-a-todo-item-chromium\video.webm]]
+
+[[ATTACHMENT|test-results\example-TC04-Complete-a-todo-item-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="TC05: Edit a todo item" classname="example.spec.ts" time="7.215">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\example-TC05-Edit-a-todo-item-chromium\video.webm]]
+
+[[ATTACHMENT|test-results\example-TC05-Edit-a-todo-item-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="TC06: Delete a todo item" classname="example.spec.ts" time="7.133">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\example-TC06-Delete-a-todo-item-chromium\video.webm]]
+
+[[ATTACHMENT|test-results\example-TC06-Delete-a-todo-item-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="TC07: Clear completed todo items" classname="example.spec.ts" time="4.612">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\example-TC07-Clear-completed-todo-items-chromium\video.webm]]
+
+[[ATTACHMENT|test-results\example-TC07-Clear-completed-todo-items-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="TC08: Do not add an empty todo" classname="example.spec.ts" time="6.347">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\example-TC08-Do-not-add-an-empty-todo-chromium\video.webm]]
+
+[[ATTACHMENT|test-results\example-TC08-Do-not-add-an-empty-todo-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="TC09: Do not add a whitespace-only todo" classname="example.spec.ts" time="5.222">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\example-TC09-Do-not-add-a-whitespace-only-todo-chromium\video.webm]]
+
+[[ATTACHMENT|test-results\example-TC09-Do-not-add-a-whitespace-only-todo-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="TC10: Completed filter hides active todos" classname="example.spec.ts" time="6.669">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\example-TC10-Completed-filter-hides-active-todos-chromium\video.webm]]
+
+[[ATTACHMENT|test-results\example-TC10-Completed-filter-hides-active-todos-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="todo.spec.ts" timestamp="2026-11-27T16:22:41.403Z" hostname="chromium" tests="3" failures="0" skipped="0" time="22.692" errors="0">
+<testcase name="TodoMVC Tests › TC01 - Add a todo" classname="todo.spec.ts" time="8.055">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\todo-TodoMVC-Tests-TC01---Add-a-todo-chromium\video.webm]]
+
+[[ATTACHMENT|test-results\todo-TodoMVC-Tests-TC01---Add-a-todo-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="TodoMVC Tests › TC02 - Add multiple todos" classname="todo.spec.ts" time="7.099">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\todo-TodoMVC-Tests-TC02---Add-multiple-todos-chromium\video.webm]]
+
+[[ATTACHMENT|test-results\todo-TodoMVC-Tests-TC02---Add-multiple-todos-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="TodoMVC Tests › TC03 - Toggle a todo" classname="todo.spec.ts" time="7.538">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\todo-TodoMVC-Tests-TC03---Toggle-a-todo-chromium\video.webm]]
+
+[[ATTACHMENT|test-results\todo-TodoMVC-Tests-TC03---Toggle-a-todo-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
